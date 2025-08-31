@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @harishea
-- 👀 I’m interested in Graphical Desinging
-- 🌱 I’m currently learning UI\UX
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi there👋 It's me Harish
+
+Computer Science Engineering student
+
+
+- 🔗 Here's my [portfolio](https://harishkumarea.wixsite.com/itshk-1)
+- 🌱 I'm currently learning Java script
+- 💞️ I'm looking to collaborate on React js
+- 🌐 I am looking for Job
+- 📫 How to reach me :
+</br>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<!---
-harishea/harishea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
