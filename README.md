@@ -4,7 +4,7 @@
 <img align="right" width="370" height="280" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" >   
  </div>
 <br>
- <i> I'm an engineering student, currently pursuing my Bachelor's Degree with a strong passion for Web Development ,UI/UX design and digital marketing. I have a keen interest in crafting visually engaging and technically sound solutions by blending creativity with analytical thinking. I'm an open-minded person who loves to connect with people. I’m currently exploring design principles, web technologies, and modern tools to enhance user experience. Apart from academics, I enjoy photography and film-making, which help me bring creativity into my work.</i>
+ <i> Engineering student with a strong passion for developing complete digital experiences. Driven to merge intuitive UI/UX design with clean front-end development, creating solutions that are both technically sound and visually engaging. Eager to apply analytical engineering skills and digital marketing insights to build and optimize impactful, user-centric applications.</i>
 
 
 - 🔭 Here's my [portfolio](https://harishkumarea.wixsite.com/itshk-1)                                                 
