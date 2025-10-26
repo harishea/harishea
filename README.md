@@ -24,7 +24,6 @@
   <img height="50" width="50" src="https://img.icons8.com/color/48/adobe-photoshop.png"/> 
   <img  height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> 
   <img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/> 
-    <img height="50" width="50" src="https://img.icons8.com/windows/32/wix.png"/> 
   
 </div>
 
@@ -36,6 +35,9 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/> 
+ <img height="50" width="50" src="https://img.icons8.com/color/48/python--v1.png"/>
+ <img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png"/> 
+ 
  </div>
 
 ## GitHub Stats
