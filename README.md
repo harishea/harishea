@@ -7,7 +7,7 @@
  <i> Engineering student with a strong passion for developing complete digital experiences. Driven to merge intuitive UI/UX design with clean front-end development, creating solutions that are both technically sound and visually engaging. Eager to apply analytical engineering skills and digital marketing insights to build and optimize impactful, user-centric applications.</i>
 
 
-- 🔭 Here's my [portfolio]([https://itshk.vercel.app/])                                                 
+- 🔭 Here's my [portfolio]([https://itshk.vercel.app/])                                               
 - 🌱 I’m currently learning DSA
 - Engineeing at [<img src="https://grt.edu.in/wp-content/uploads/2025/01/grt_footer.jpg" height="24">](https://grt.edu.in/)
   
