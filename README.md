@@ -8,7 +8,7 @@
 
 
 - 🔭 Here's my [portfolio](https://itshk.vercel.app/)                                               
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning Digital Marketing
 - Engineeing at [<img src="https://grt.edu.in/wp-content/uploads/2025/01/grt_footer.jpg" height="24">](https://grt.edu.in/)
   
  ### How to Reach me
